@@ -5,6 +5,8 @@ Node module for the Thodex API designed to be easy to use.
 ```
 npm i thodex-api-node
 ```
+
+### Getting Started
 ```javascript
 const {Thodex, ThodexSocket} = require('thodex-api-node')
 
