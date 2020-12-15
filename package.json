@@ -1,0 +1,24 @@
+{
+  "name": "thodex-api-node",
+  "version": "1.0.0",
+  "description": "Node module for the Thodex API designed to be easy to use.",
+  "main": "lib/thodex.js",
+  "scripts": {
+    "test": "node tests/socket.js"
+  },
+  "keywords": [
+    "thodex",
+    "bitcoin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atakandemirkir/thodex-api-node"
+  },
+  "author": "Atakan DEMIRKIR",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "ws": "^7.4.1"
+  },
+  "homepage": "https://github.com/atakandemirkir/thodex-api-node#readme"
+}
