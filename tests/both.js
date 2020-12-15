@@ -1,6 +1,6 @@
 const {Thodex, ThodexSocket} = require('../index')
 
-thdx = new Thodex("Cl0IFBttE1LPRoK6dz40TLgzM7KfTllvds6Kaq7b4xISyyz0pVfL0sXB1gNQC8BM", 'mKKC9YUCCSvhbgAmPm66xDgw24cfdV5ifzTIV4sv51OYQfutvXkoUnW8xlj0XDS5');
+thdx = new Thodex("apikey", 'apisecret');
 
 thdx.serverTime()
     .then((result) => {
