@@ -1,6 +1,6 @@
 {
   "name": "thodex-api-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node module for the Thodex API designed to be easy to use.",
   "main": "lib/thodex.js",
   "scripts": {
